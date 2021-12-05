@@ -1,6 +1,15 @@
 - Hi, I’m @MeB-HaCkEr
 - I’m interested in ...
 - I’m learning programming
+- I have advanced level;
+-network
+-network security
+-network penetration testing
+-Python
+-Linux System
+-Linux Administration
+-Linux System Security
+-System Penetration Testing
 
 -Merhaba Ben @MeB-HaCkEr
 -Meraklıyım
