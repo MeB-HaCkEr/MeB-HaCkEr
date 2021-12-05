@@ -5,7 +5,7 @@
 -Merhaba Ben @MeB-HaCkEr
 -Meraklıyım
 -Programlama Öğreniyorum
--
+-Eğitimimin Sonundayım
 -
 <!---
 MeB-HaCkEr/MeB-HaCkEr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
